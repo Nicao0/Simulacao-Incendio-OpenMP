@@ -1,0 +1,1 @@
+# Simula-o-Inc-ndio-OpenMP
